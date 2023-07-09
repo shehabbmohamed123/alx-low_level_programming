@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <ctype.h>
+#include <stdbool.h>
 /**
  * coinConverter - Helper function that does all the mathematics
  * @i: Passed in variable from main for calculations
